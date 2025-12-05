@@ -1,0 +1,11 @@
+# Unity / scripts-only repo
+Library/
+Temp/
+Obj/
+Build/
+UserSettings/
+*.fbx
+*.png
+*.jpg
+*.mp3
+*.wav
